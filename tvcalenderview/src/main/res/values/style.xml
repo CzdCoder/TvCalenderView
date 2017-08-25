@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TvCalenderView">
+        <attr name="calender_textSize" format="dimension|reference"/>
+        <attr name="calender_currentDayColor" format="color|reference"/>
+        <attr name="calender_textColor" format="color|reference"/>
+        <attr name="calender_focusDrawable" format="reference"/>
+        <attr name="calender_startAndEndPadding" format="dimension|reference"/>
+        <attr name="calender_horizontalInterval" format="dimension|reference"/>
+        <attr name="calender_verticalInterval" format="dimension|reference"/>
+        <attr name="calender_weekTextColor" format="color|reference"/>
+        <attr name="calender_headBg" format="reference"/>
+        <attr name="calender_headTextSize" format="dimension|reference"/>
+        <attr name="calender_headTextColor" format="dimension|reference"/>
+        <attr name="calender_focusTextColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
